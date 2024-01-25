@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PraveenReddy2510
-- 👀 I’m interested and DevOps..
+- 👀 I’m interested DevOps..
 - 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on DevOps projects
 - 📫 How to reach me rpraveen4712@gmail.com
