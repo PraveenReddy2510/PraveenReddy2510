@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋, I'm PRAVEEN REDDY</h1>
 <h3 align="center">🌟 Manual & Automation Test Engineer | Quality Advocate | Lifelong Learner</h3>
 
 <p align="center">
@@ -8,12 +8,12 @@
 ---
 
 ### 🧪 About Me
-- 🔍 3+ years of experience in **Software Testing** (Manual + Automation)
+- 🔍 4+ years of experience in **Software Testing** (Manual + Automation)
 - 💻 Proficient in **Java + Selenium**, **API Testing (Postman, Rest Assured)**, and **Database Testing (SQL)**
 - 🔄 Experienced in **Agile (Scrum)** methodologies
-- 🚀 Hands-on with **CI/CD** tools like Jenkins, GitHub Actions
+- 🚀 Hands-on with **CI/CD** tools like Jenkins,  Azure Devops
 - 🔐 Enthusiastic about **Test Automation**, **DevOps Integration**, and **Quality-first mindset**
-- 🧰 Tools I use: JIRA, TestNG, Maven, Git, GitHub, Docker, and more
+- 🧰 Tools I use: Java, Selenium, Cucumber, JIRA, TestNG, Maven, Git, GitHub, Docker, ADO Boards and more
 
 ---
 
@@ -34,7 +34,8 @@
 ![Jenkins](https://img.shields.io/badge/-Jenkins-%23000000?style=flat&logo=jenkins)  
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git)  
 ![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat&logo=github)  
-![Docker](https://img.shields.io/badge/-Docker-%230db7ed?style=flat&logo=docker)  
+![Docker](https://img.shields.io/badge/-Docker-%230db7ed?style=flat&logo=docker) 
+![Eclipse](https://img.shields.io/badge/-Eclipse%20IDE-%232C2255?style=flat&logo=eclipse-ide&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat&logo=visual-studio-code)  
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-%23000000?style=flat&logo=intellij-idea)
 
