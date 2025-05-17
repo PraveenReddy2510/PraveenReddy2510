@@ -2,7 +2,8 @@
 <h3 align="center">🌟 Manual & Automation Test Engineer | Quality Advocate | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&height=50&lines=Passionate+about+Quality+Assurance;Manual+%2B+Automation+Testing;Selenium+%7C+Java+%7C+API+Testing;CI%2FCD+with+Jenkins+%7C+Azure+DevOps;Always+learning+and+growing+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&width=600&height=50&lines=Passionate+about+Quality+Assurance;Manual+%2B+Automation+Testing;Selenium+%7C+Java+%7C+API+Testing;CI%2FCD+with+Jenkins+%7C+Azure+DevOps;Always+learning+and+growing+%F0%9F%9A%80" />\
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100" title="Selenium" />
 </p>
 
 
