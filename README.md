@@ -62,7 +62,7 @@
 ### 📬 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-linkedin-profile)  
-📧 Email: your.email@example.com  
+📧 Email: praveenrajala@outlook.com  
 
 ---
 
