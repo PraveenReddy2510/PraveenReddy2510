@@ -36,22 +36,18 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-D14836?style=for-the-badge&logo=apachejmeter&logoColor=white)
 
-
-
-
-
 #### 💻 Languages  
-![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat&logo=java)  
-![SQL](https://img.shields.io/badge/-SQL-%2300f?style=flat&logo=mysql)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)  
+[![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 #### 🔧 Tools & Platforms  
-![Jenkins](https://img.shields.io/badge/-Jenkins-%23000000?style=flat&logo=jenkins)  
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git)  
-![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat&logo=github)  
-![Docker](https://img.shields.io/badge/-Docker-%230db7ed?style=flat&logo=docker)  
-![Eclipse](https://img.shields.io/badge/-Eclipse%20IDE-%232C2255?style=flat&logo=eclipse-ide&logoColor=white)  
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat&logo=visual-studio-code)  
-![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-%23000000?style=flat&logo=intellij-idea)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)  
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)  
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)  
+[![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white)](https://www.eclipse.org/)  
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)  
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 
 ---
 
