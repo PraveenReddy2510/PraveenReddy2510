@@ -30,9 +30,12 @@
 ### 🛠️ Tech Stack
 
 #### 🧪 Testing & QA  
-[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=social&logo=selenium)](https://www.selenium.dev/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=social&logo=postman)](https://www.postman.com/)
-[![JMeter](https://img.shields.io/badge/JMeter-D14836?style=social&logo=apachejmeter)](https://jmeter.apache.org/)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-EF4035?style=for-the-badge&logo=apache&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D14836?style=for-the-badge&logo=apachejmeter&logoColor=white)
+
 
 
 
