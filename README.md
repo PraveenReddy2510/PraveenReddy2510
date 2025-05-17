@@ -71,8 +71,7 @@
 
 ### 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/praveen-reddy-qaa)  
-**praveen-reddy-qaa**
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/praveen-reddy-qaa) **praveen-reddy-qaa**
 
 📧 Email: praveenrajala@outlook.com  
 
