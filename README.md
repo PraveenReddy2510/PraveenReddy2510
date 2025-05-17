@@ -5,8 +5,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=Passionate+about+Quality+Assurance;Manual+%2B+Automation+Testing;Selenium+%7C+Java+%7C+API+Testing;CI%2FCD+%7C+Jenkins+%7C+Azure+DevOps;Always+learning+and+growing+🚀" />
 </p>
 
+<!-- Animated tech stack GIFs -->
 <p align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="160" title="Selenium" />
+  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="160" title="Cucumber BDD" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="160" title="Azure DevOps" />
 </p>
 
 ---
@@ -72,5 +75,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=F7F7F7&width=435&lines=Delivering+quality+software+...;One+test+case+at+a+time+
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=F7F7F7&width=435&lines=Delivering+quality+software+...;One+test+case+at+a+time+✅" />
+</p>
