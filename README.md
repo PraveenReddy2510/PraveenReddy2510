@@ -2,18 +2,23 @@
 <h3 align="center">🌟 Manual & Automation Test Engineer | Quality Advocate | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Passionate+about+Quality+Assurance;Manual+%2B+Automation+Testing;Selenium+%7C+Java+%7C+API+Testing;Jenkins+%7C+GitHub+Actions+%7C+CI%2FCD;Always+learning+and+growing+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=Passionate+about+Quality+Assurance;Manual+%2B+Automation+Testing;Selenium+%7C+Java+%7C+API+Testing;CI%2FCD+%7C+Jenkins+%7C+Azure+DevOps;Always+learning+and+growing+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="300" />
 </p>
 
 ---
 
 ### 🧪 About Me
-- 🔍 4+ years of experience in **Software Testing** (Manual + Automation)
-- 💻 Proficient in **Java + Selenium**, **API Testing (Postman, Rest Assured)**, and **Database Testing (SQL)**
-- 🔄 Experienced in **Agile (Scrum)** methodologies
-- 🚀 Hands-on with **CI/CD** tools like Jenkins,  Azure Devops
-- 🔐 Enthusiastic about **Test Automation**, **DevOps Integration**, and **Quality-first mindset**
-- 🧰 Tools I use: Java, Selenium, Cucumber, JIRA, TestNG, Maven, Git, GitHub, Docker, ADO Boards and more
+
+- 🔍 4+ years of experience in **Software Testing** (Manual + Automation)  
+- 💻 Proficient in **Java + Selenium**, **API Testing (Postman, Rest Assured)**, and **Database Testing (SQL)**  
+- 🔄 Experienced in **Agile (Scrum)** methodologies  
+- 🚀 Hands-on with **CI/CD** tools like Jenkins and Azure DevOps  
+- 🔐 Passionate about **Test Automation**, **DevOps Integration**, and **Quality-first mindset**  
+- 🧰 Tools I use: Java, Selenium, Cucumber, JIRA, TestNG, Maven, Git, GitHub, Docker, ADO Boards, and more  
 
 ---
 
@@ -34,8 +39,8 @@
 ![Jenkins](https://img.shields.io/badge/-Jenkins-%23000000?style=flat&logo=jenkins)  
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git)  
 ![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat&logo=github)  
-![Docker](https://img.shields.io/badge/-Docker-%230db7ed?style=flat&logo=docker) 
-![Eclipse](https://img.shields.io/badge/-Eclipse%20IDE-%232C2255?style=flat&logo=eclipse-ide&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-%230db7ed?style=flat&logo=docker)  
+![Eclipse](https://img.shields.io/badge/-Eclipse%20IDE-%232C2255?style=flat&logo=eclipse-ide&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat&logo=visual-studio-code)  
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-%23000000?style=flat&logo=intellij-idea)
 
@@ -44,17 +49,17 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PraveenReddy2510&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PraveenReddy2510&show_icons=true&theme=github_dark" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PraveenReddy2510&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
 </p>
 
 ---
 
 ### 📚 Latest Projects
 
-- 🔹 [Automation Test Framework - Java + TestNG + Maven](https://github.com/PraveenReddy2510/automation-project-testng)
-- 🔹 [API Testing Suite using RestAssured](https://github.com/PraveenReddy2510/api-testing-project)
-- 🔹 [Jenkins CI Pipeline for Test Automation](https://github.com/PraveenReddy2510/jenkins-pipeline)
+- 🔹 [Automation Test Framework - Java + TestNG + Maven](https://github.com/PraveenReddy2510/automation-project-testng)  
+- 🔹 [API Testing Suite using RestAssured](https://github.com/PraveenReddy2510/api-testing-project)  
+- 🔹 [Jenkins CI Pipeline for Test Automation](https://github.com/PraveenReddy2510/jenkins-pipeline)  
 - 🔹 [Manual Test Case Repository](https://github.com/PraveenReddy2510/manual-test-cases)
 
 ---
@@ -67,5 +72,5 @@
 ---
 
 <p align="center">
-  📌 *Always delivering quality — one test at a time!*
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=F7F7F7&width=435&lines=Delivering+quality+software+...;One+test+case+at+a+time+
+
