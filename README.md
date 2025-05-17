@@ -52,16 +52,16 @@
 
 ### 📚 Latest Projects
 
-- 🔹 [Automation Test Framework - Java + TestNG + Maven](https://github.com/your-github-username/your-automation-project)
-- 🔹 [API Testing Suite using RestAssured](https://github.com/your-github-username/api-testing-project)
-- 🔹 [Jenkins CI Pipeline for Test Automation](https://github.com/your-github-username/jenkins-pipeline)
-- 🔹 [Manual Test Case Repository](https://github.com/your-github-username/manual-test-cases)
+- 🔹 [Automation Test Framework - Java + TestNG + Maven](https://github.com/PraveenReddy2510/automation-project-testng)
+- 🔹 [API Testing Suite using RestAssured](https://github.com/PraveenReddy2510/api-testing-project)
+- 🔹 [Jenkins CI Pipeline for Test Automation](https://github.com/PraveenReddy2510/jenkins-pipeline)
+- 🔹 [Manual Test Case Repository](https://github.com/PraveenReddy2510/manual-test-cases)
 
 ---
 
 ### 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-linkedin-profile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/praveen-reddy-qaa)  
 📧 Email: praveenrajala@outlook.com  
 
 ---
