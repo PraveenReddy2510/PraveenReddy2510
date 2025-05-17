@@ -30,11 +30,12 @@
 ### 🛠️ Tech Stack
 
 #### 🧪 Testing & QA  
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-EF4035?style=for-the-badge&logo=apache&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-D14836?style=for-the-badge&logo=apachejmeter&logoColor=white)
-![Manual Testing](https://img.shields.io/badge/Manual_Testing-blue?style=for-the-badge)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-EF4035?style=plastic&logo=apache&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D14836?style=plastic&logo=apachejmeter&logoColor=white)
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-blue?style=plastic)
+
 
 
 #### 💻 Languages  
